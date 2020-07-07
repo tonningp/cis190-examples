@@ -1,41 +1,41 @@
 EXERCISES
 
-* Which commands can you use to determine who is logged in on a specific terminal?
+# Which commands can you use to determine who is logged in on a specific terminal?
 
-* How can you keep other users from using write to communicate with you?
+# How can you keep other users from using write to communicate with you?
    Why would you want to?
 
-* What happens when you give the following commands if the file named done already exists?
+# What happens when you give the following commands if the file named done already exists?
 
    $ cp to_do done
    $ mv to_do done
 
-* How can you find out which utilities are available on your system for editing files? 
+# How can you find out which utilities are available on your system for editing files? 
    Which utilities are available for editing on your system?
 
-* How can you find the phone number for Ace Electronics in a file named phone that contains a list of names and phone numbers? 
+# How can you find the phone number for Ace Electronics in a file named phone that contains a list of names and phone numbers? 
 
-* Which command can you use to display the entire file in alphabetical order? 
+# Which command can you use to display the entire file in alphabetical order? 
 
-* How can you display the file without any adjacent duplicate lines? How can you display the file without any duplicate lines?
+# How can you display the file without any adjacent duplicate lines? How can you display the file without any duplicate lines?
 
-* What happens when you use diff to compare two binary files that are not identical? (You can use gzip to create the binary files.) 
+# What happens when you use diff to compare two binary files that are not identical? (You can use gzip to create the binary files.) 
 
-* Explain why the diff output for binary files is different from the diff output for ASCII files.
+# Explain why the diff output for binary files is different from the diff output for ASCII files.
 
-* Create a .plan file in your home directory. Does finger display the contents of your .plan file?
+# Create a .plan file in your home directory. Does finger display the contents of your .plan file?
 
  
 
-* What is the result of giving the which utility the name of a command that resides in a directory that is not in your search path?
+# What is the result of giving the which utility the name of a command that resides in a directory that is not in your search path?
 
-* Are any of the utilities discussed in this chapter located in more than one directory on the local system? If so, which ones?
+# Are any of the utilities discussed in this chapter located in more than one directory on the local system? If so, which ones?
 
-* Experiment by calling the file utility with the names of files in /usr/bin. How many different types of files are there?
+# Experiment by calling the file utility with the names of files in /usr/bin. How many different types of files are there?
 
-* Which command can you use to look at the first few lines of a file named status.report? 
+# Which command can you use to look at the first few lines of a file named status.report? 
 
-* Which command can you use to look at the end of the file?
+# Which command can you use to look at the end of the file?
 
 ------------------------------------------------------------------------------------------------
 

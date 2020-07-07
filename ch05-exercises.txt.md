@@ -1,18 +1,18 @@
 EXERCISES
 
-* What does the shell ordinarily do while a command is executing? What should you do if you do not want to wait for a command to finish before
+# What does the shell ordinarily do while a command is executing? What should you do if you do not want to wait for a command to finish before
 running another command?  
 
-* Using sort as a filter, rewrite the following sequence of commands:
+# Using sort as a filter, rewrite the following sequence of commands:
 
    $ sort list > temp
    $ lpr temp
    $ rm temp
 
-* What is a PID number? Why are these numbers useful when you run processes in the background? Which utility displays the PID numbers of the commands
+# What is a PID number? Why are these numbers useful when you run processes in the background? Which utility displays the PID numbers of the commands
 you are running?
 
-* Assume the following files are in the working directory:
+# Assume the following files are in the working directory:
 
    $ ls
    intro notesb ref2 sectionl section3  section4b
@@ -25,14 +25,14 @@ b. List the section1, section2, and section3 files only.
 c. List the intro file only.
 d. List the section1, section3, ref1, and ref3 files.
 
-* Refer to Part VII or the info or man pages to determine which command will
+# Refer to Part VII or the info or man pages to determine which command will
 
    a. Display the number of lines in its standard input that contain the word a or A.
    b. Display only the names of the files in the working directory that contain the pattern $(.
    c. List the files in the working directory in reverse alphabetical order.
    d. Send a list of files in the working directory to the printer, sorted by size.
 
-* Give a command to
+# Give a command to
 
 a.  Redirect standard output from a sort command to a file named phone_list. Assume the input file is named numbers.
 
