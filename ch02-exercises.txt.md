@@ -1,7 +1,7 @@
 Exercises:
 
-1. The following message is displayed when you attempt to log in with an
-   incorrect username or an incorrect password:
+1. The following message is displayed when you attempt to log in with an incorrect username or an incorrect password:
+   
    Login incorrect
 
 2. This message does not indicate whether your username, your password, or both are invalid. Why does it not tell you this information?
